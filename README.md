@@ -10,58 +10,6 @@
 
 <br/>
 
-<div align="center">
-
-<table>
-<tr><td>
-
-<sub>DRAWING TITLE</sub><br/>
-<b>MAJD ABU GHAZALEH</b>
-
-</td><td>
-
-<sub>DISCIPLINE</sub><br/>
-Mechanical Eng. → Software
-
-</td><td>
-
-<sub>SCALE</sub><br/>
-1 : 1, no shortcuts
-
-</td></tr>
-<tr><td>
-
-<sub>DESIGN TOOLS</sub><br/>
-Inventor · AutoCAD · Navisworks
-
-</td><td>
-
-<sub>ANALYSIS</sub><br/>
-ANSYS · OpenFOAM
-
-</td><td>
-
-<sub>TOLERANCE</sub><br/>
-± 0, ship it correct
-
-</td></tr>
-<tr><td>
-
-<sub>MATERIAL</sub><br/>
-C · Python · TypeScript
-
-</td><td colspan="2">
-
-<sub>CURRENT JOB</sub><br/>
-Phase-change data-center cooling · multi-tenant MEP material tracking
-
-</td></tr>
-</table>
-
-</div>
-
-<br/>
-
 ## Stack
 
 <div align="center">
