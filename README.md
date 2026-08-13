@@ -10,28 +10,55 @@
 
 <br/>
 
-```c
-/* majd.h ── compiled from mechanical into software */
+<div align="center">
 
-typedef struct {
-    const char *discipline;   // where it started
-    const char *cad[3];       // Inventor, AutoCAD, Navisworks
-    const char *sim[2];       // ANSYS, OpenFOAM — CFD / thermal / structural
-    const char *lang[4];      // C, Python, TypeScript, SQL
-    const char *building;     // what's on the bench right now
-} engineer_t;
+<table>
+<tr><td>
 
-static const engineer_t majd = {
-    .discipline = "thermal & fluid systems, controls",
-    .cad        = { "Inventor", "AutoCAD", "Navisworks" },
-    .sim        = { "ANSYS", "OpenFOAM" },
-    .lang       = { "C", "Python", "TypeScript", "SQL" },
-    .building   = "phase-change cooling for data centers, "
-                  "and a multi-tenant SaaS for MEP material tracking",
-};
+<sub>DRAWING TITLE</sub><br/>
+<b>MAJD ABU GHAZALEH</b>
 
-int main(void) { return ship(&majd); }  /* always returns 0 */
-```
+</td><td>
+
+<sub>DISCIPLINE</sub><br/>
+Mechanical Eng. → Software
+
+</td><td>
+
+<sub>SCALE</sub><br/>
+1 : 1, no shortcuts
+
+</td></tr>
+<tr><td>
+
+<sub>DESIGN TOOLS</sub><br/>
+Inventor · AutoCAD · Navisworks
+
+</td><td>
+
+<sub>ANALYSIS</sub><br/>
+ANSYS · OpenFOAM
+
+</td><td>
+
+<sub>TOLERANCE</sub><br/>
+± 0, ship it correct
+
+</td></tr>
+<tr><td>
+
+<sub>MATERIAL</sub><br/>
+C · Python · TypeScript
+
+</td><td colspan="2">
+
+<sub>CURRENT JOB</sub><br/>
+Phase-change data-center cooling · multi-tenant MEP material tracking
+
+</td></tr>
+</table>
+
+</div>
 
 <br/>
 
