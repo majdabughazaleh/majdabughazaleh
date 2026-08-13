@@ -10,19 +10,27 @@
 
 <br/>
 
-```text
-┌─ operator@majd ────────────────────────────────────────────────────┐
-│                                                                     │
-│  ROLE        Mechanical Engineer, building software around it      │
-│  DISCIPLINE  Thermal / fluid systems, controls, digital twins       │
-│  CAD         Autodesk Inventor · AutoCAD · Navisworks                │
-│  SIMULATION  ANSYS · OpenFOAM (CFD / thermal / structural)          │
-│  CODE        Python · TypeScript · Next.js · PostgreSQL             │
-│  CURRENTLY   Modeling a phase-change cooling system for data        │
-│              centers, and shipping a multi-tenant SaaS for MEP      │
-│              material tracking                                      │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
+```c
+/* majd.h ── compiled from mechanical into software */
+
+typedef struct {
+    const char *discipline;   // where it started
+    const char *cad[3];       // Inventor, AutoCAD, Navisworks
+    const char *sim[2];       // ANSYS, OpenFOAM — CFD / thermal / structural
+    const char *lang[4];      // C, Python, TypeScript, SQL
+    const char *building;     // what's on the bench right now
+} engineer_t;
+
+static const engineer_t majd = {
+    .discipline = "thermal & fluid systems, controls",
+    .cad        = { "Inventor", "AutoCAD", "Navisworks" },
+    .sim        = { "ANSYS", "OpenFOAM" },
+    .lang       = { "C", "Python", "TypeScript", "SQL" },
+    .building   = "phase-change cooling for data centers, "
+                  "and a multi-tenant SaaS for MEP material tracking",
+};
+
+int main(void) { return ship(&majd); }  /* always returns 0 */
 ```
 
 <br/>
@@ -37,7 +45,7 @@
 
 **Software**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
 
 </div>
 
@@ -45,7 +53,7 @@
 
 <div align="center">
 
-<a href="https://ae.linkedin.com/in/majd-abu-ghazaleh-73bb48303"><img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=8fd3e8"/></a> <img src="https://img.shields.io/badge/Email-mjd.abughazaleh%40gmail.com-0f2027?style=for-the-badge&logo=gmail&logoColor=8fd3e8"/>
+<a href="https://ae.linkedin.com/in/majd-abu-ghazaleh-73bb48303"><img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=8fd3e8"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:1c3b4a,100:0f2027&height=100&section=footer" width="100%"/>
 
