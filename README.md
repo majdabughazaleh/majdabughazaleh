@@ -83,7 +83,7 @@ Role-based flows for storekeepers, site engineers, and QA/QC
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Email-mjd.abughazaleh%40gmail.com-0f2027?style=for-the-badge&logo=gmail&logoColor=8fd3e8"/>
+<a href="https://ae.linkedin.com/in/majd-abu-ghazaleh-73bb48303"><img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=8fd3e8"/></a> <img src="https://img.shields.io/badge/Email-mjd.abughazaleh%40gmail.com-0f2027?style=for-the-badge&logo=gmail&logoColor=8fd3e8"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:1c3b4a,100:0f2027&height=100&section=footer" width="100%"/>
 
