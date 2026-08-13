@@ -43,45 +43,7 @@
 
 <br/>
 
-## Featured builds
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [DesertCool AI](https://github.com/majdabughazaleh/desertcool-ai)
-**Phase-change thermal storage for desert data centers**
-
-MPC-scheduled cooling controller paired with a PCM thermal battery — freezes overnight, melts through the afternoon peak. Physics-validated digital twin, real Abu Dhabi weather + real GPU workload traces, zero invented numbers.
-
-`−29.3%` cooling electricity in June · `−51.6%` load shifted off-peak
-
-`Python` `ANSYS (in progress)` `Deterministic MPC` `Digital Twin`
-
-</td>
-<td width="50%" valign="top">
-
-### [LPOVA](https://github.com/majdabughazaleh/lpova)
-**Post-LPO material tracking for MEP subcontractors**
-
-Multi-tenant SaaS that follows one material request from site ask to receipt — split fulfilment across stock transfer and purchase branches, tenant-isolated at three independent layers.
-
-Role-based flows for storekeepers, site engineers, and QA/QC
-
-`Next.js 15` `TypeScript` `PostgreSQL` `Prisma` `Multi-tenant`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=majdabughazaleh&show_icons=true&theme=dark&hide_border=true&bg_color=0f2027&title_color=8fd3e8&icon_color=8fd3e8&text_color=e8f1f2" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=majdabughazaleh&theme=dark&hide_border=true&background=0f2027&stroke=8fd3e8&ring=8fd3e8&fire=8fd3e8&currStreakLabel=e8f1f2" height="165"/>
-
-<br/><br/>
 
 <a href="https://ae.linkedin.com/in/majd-abu-ghazaleh-73bb48303"><img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=8fd3e8"/></a> <img src="https://img.shields.io/badge/Email-mjd.abughazaleh%40gmail.com-0f2027?style=for-the-badge&logo=gmail&logoColor=8fd3e8"/>
 
